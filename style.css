@@ -152,7 +152,7 @@
   
   .header{
   
-  min-height: 200vh;
+  min-height: 140vh;
   width: 105%;
   
   background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("Ted/t1.png");
