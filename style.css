@@ -147,13 +147,35 @@
       margin-top: 20px;
       font-weight: 600;
   }
-  
+
+  /* photo level */
+  .section{
+    width:  80%;
+    margin: 80px auto;
+
+  }
+  .title{
+    text-align: center;
+    font-size: 4vmin;
+    color: blue;
+  }
+  .row{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    background: cyan;
+  }
+  .row .col img{
+    width: 80%;
+
+  }
   
   
   .header{
   
   min-height: 140vh;
-  width: 105%;
+  width: 104%;
   
   background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("Ted/t1.png");
   background-position: center;
